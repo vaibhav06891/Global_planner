@@ -31,9 +31,19 @@ my_rgb_img = insertMarker(my_rgb_img,marker_pos,'x','color','red','size',5);
 figure('name','marked world'),imshow(my_rgb_img)
 
 
+%% bot control
+path(1,:)=[];
 
+while( ~isempty(path))
+    target_reached = 0;
+    node_pos = path(1,:);
 
-
+    while(~target_reached)
+        correct_inclined = robot_orient(bot_pos,marker_pos,node_pos,robo,my_freenect);
+        target_reached = robot_translate(bot_pos, node_pos,robo,my_freenect);
+    end
+    path(1,:) = [];
+end
 
 
 
