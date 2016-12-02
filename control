@@ -1,0 +1,432 @@
+()
+
+atan((x_bot-r)/(y_bot-c))
+
+bot_pos
+
+atan((y_marker-y_bot)/(x_marker-x_bot))
+
+atan((y_marker-y_bot)/(x_marker-x_bot))
+
+atan((y_marker-y_bot)/(x_marker-x_bot))
+
+
+atan((y_marker-y_bot)/(x_marker-x_bot))
+im = imread('Drawing.png');
+bot_pos=[10,10];
+goal_pos = [500,500];
+find(im,bot_pos,goal_pos)
+goal_pos
+bot_pos=[10 10];
+goal_pos = [500 500];
+find(im,bot_pos,goal_pos)
+bot_pos(1_
+bot_pos(1)
+bot_pos(3)
+bot_pos(2)
+find_path(im,bot_pos,goal_pos)
+ 
+find_path(im,bot_pos,goal_pos)
+bot_pos=[60 380];
+goal_pos = [670 50];
+find_path(im,bot_pos,goal_pos)
+find_path
+find_path(im,bot_pos,goal_pos)
+goal_pos = [890 340];
+find_path(im,bot_pos,goal_pos)
+
+
+
+
+ 
+
+ 
+
+[my_rgb_img, my_depth_img] = my_freenect.getFrame();
+
+[my_rgb_img, my_depth_img] = my_freenect.getFrame();
+
+ 
+marker_pos
+marker_positioning
+atan((y_marker-y_bot)/(x_marker-x_bot))
+
+
+robo.driveFor([100 -100], 100);
+bot_pos1 = bot_pos
+marker_pos1 = marker_pos
+marker_positioning
+
+atan((y_marker-y_bot)/(x_marker-x_bot))
+abs(   -0.7338
+)
+abs(   -0.7338)
+abs(0.8475)-abs(0.7338)
+0.1137*54
+0.1137*51
+a = (my_rgb_img);
+ 
+[my_rgb_img, my_depth_img] = my_freenect.getFrame();
+a = (my_rgb_img);
+
+ 
+a = (my_rgb_img);
+ 
+
+
+
+
+
+pi
+
+
+ 
+
+(my_rgb_img)
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+ 
+
+
+robo.driveFor([100 -100], 100);
+ 
+
+
+robo.driveFor([100 -100], 100);
+
+%-- 11/19/2016 04:42:33 AM --%
+
+ 
+
+
+clear
+ 
+
+ 
+
+clear
+robo.free(0
+
+clear
+ 
+%-- 11/19/2016 05:00:52 AM --%
+
+
+ 
+
+atan2((marker_pos(1)-bot_pos(1))/marker_pos(2)-bot_pos(2))
+ay = marker_pos(1) - bot_pos(1);
+ax = marker_pos(2) - bot_pos(2);
+atan2(ay,ax)
+ans*180/pi
+ay1 = marker_pos1(1) - bot_pos1(1);
+ax1 = marker_pos1(2) - bot_pos1(2);
+atan2(ay1,ax1)
+ans*180/pi
+%-- 11/27/2016 02:47:28 PM --%
+clear
+ 
+
+robo.driveFor([100 -100], 100);
+
+(my_rgb_img)
+clear
+ 
+
+%-- 11/27/2016 03:03:38 PM --%
+
+
+
+
+
+angle = atan((marker_pos(1)-bot_pos(1))/(marker_pos(2)-bot_pos(2)));
+angle = atan2((marker_pos(1)-bot_pos(1))/(marker_pos(2)-bot_pos(2)));
+ay = marker_pos(1)-bot_pos(1);
+ax = marker_pos(2) - bot_pos(2);
+atan2(ay,ax)
+ay1 = marker_pos1(1) - bot_pos1(1);
+ax1 = marker_pos1(2) - bot_pos1(2);
+atan2(ay,ax)
+-2.7367*180/pi
+ay1 = marker_pos1(1) - bot_pos1(1);
+ax1 = marker_pos1(2) - bot_pos1(2);
+lol = atan2(ay,ax)
+ax = marker_pos(2) - bot_pos(2 );
+ 
+
+
+
+rotated_angle = (68+90);
+atan2(ax,ay)*180/pi
+atan2(ax1,ay1)*180/pi
+ans1 = atan2(ax2,ay2)*180/pi
+
+cl
+ 
+
+
+ 
+
+
+angle3 = 360 + angle2
+
+ 
+
+ 
+
+a1 = atan2(ax1,ay1)*180/pi
+a2 = atan2(ax2,ay2)*180/pi
+a2 = a2 + 360
+ 
+
+ang = atan2(ay1,ax1)*180/pi
+ang = atan2(ax1,ay1)*180/pi
+
+
+ 
+
+ 
+
+ 
+clear
+%-- 11/27/2016 03:51:38 PM --%
+
+
+ 
+
+
+marker_positioning
+ 
+marker_positioning
+
+
+(my_rgb_img)
+
+
+(my_rgb_img)
+
+ 
+
+ang = atan2(ay1,ax1)*180/pi
+ang = atan2(ax1,ay1)*180/pi
+(my_rgb_img)
+
+(my_rgb_img)
+marker_pos1= [324,240]
+ay1 = marker_pos1(1) - bot_pos1(1);
+ax1 = marker_pos1(2) - bot_pos1(2);
+ang = atan2(ax1,ay1)*180/pi
+
+(my_rgb_img)
+L = linespace(0,2.*pi,6);
+L = linspace(0,2.*pi,6);
+xv = cox(L);
+xv = cos(L);
+xv = cos(L)';
+xv = cos(L);
+yv = sin(L)';
+xv = cos(L)';
+(my_rgb_img)
+
+(my_rgb_img)
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ay1 = marker_pos1(1) - bot_pos1(1);
+ax1 = marker_pos1(2) - bot_pos1(2);
+ay1 = marker_pos(1) - bot_pos(1);
+ax1 = marker_pos(2) - bot_pos(2);
+atan2(ax1,ay1)*180/pi
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+robo.driveFor([100 -100], 100);
+ 
+
+clear
+ 
+
+%-- 11/27/2016 05:22:02 PM --%
+
+
+
+ 
+
+ 
+
+clear
+ 
+
+%-- 11/27/2016 05:33:18 PM --%
+
+
+
+(my_rgb_img)
+
+ 
+
+
+
+ 
+ 
+ 
+
+
+
+ 
+path(3)
+path(4)
+path(1)
+path(1,:)
+path(3,:)
+path(2,:)
+a = path
+a(1,:0)=[];
+a(1,:)=[];
+a
+a==[]
+isempty(a)
+isempty(b)
+b = []
+isempty(b)
+ll = path(1,:)
+ 
+
+
+robo.driveFor([100 -100], 100);
+
+robo.driveFor([100 -100], 100);
+robo.driveFor([100 100], 100);
+
+robo.driveFor([100 100], 100);
+
+robo.driveFor([100 100], 100);
+
+ 
+clear
+%-- 11/27/2016 10:12:27 PM --%
+
+
+
+
+
+(my_rgb_img)
+marker_positioning
+
+(my_rgb_img)
+
+(my_rgb_img)
+
+ 
+
+ 
+imhsow(my_rgb_img)
+(my_rgb_img)
+ 
+(my_rgb_img)
+
+ 
+
+atan(1/2)
+ans * 180/pi
+
+ 
+
+
+
+
+
+
+%-- 11/27/2016 11:32:34 PM --%
+marker_positioning
+
+(my_rgb_img)
+ 
+
+(my_rgb_img)
+
+(obs2)
+
+%-- 11/27/2016 11:37:36 PM --%
+
+(obs2)
+(my_rgb_img)
+ 
+
+(my_rgb_img)
+(obs2)
+_ima
+
+
+
+
+
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+%-- 11/28/2016 12:43:43 AM --%
+
+
+
+
+
+
+
+ 
+wxir
+%-- 11/28/2016 01:10:08 AM --%
+
+ 
+
+
+
+
+%-- 12/01/2016 04:10:26 PM --%
+lol = atan2(ay,ax)
